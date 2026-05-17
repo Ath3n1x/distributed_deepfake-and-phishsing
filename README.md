@@ -108,18 +108,7 @@ DeepTrace_Streamlit_Fmaybe/
 
 ## File Size Optimization
 
-The project has been heavily optimized to reduce file size:
-- **Removed duplicate virtual environments** (saved ~1.3 GB)
-- **Removed bloated virtual environment** (saved ~2.6 GB)
-- **Created minimal requirements** with only essential packages
-- **Added proper .gitignore** to exclude unnecessary files
-- **Single virtual environment** in `.venv/` directory
-- **Automated setup scripts** for easy installation
-
-### Size Comparison:
-- **Before cleanup:** 4.4 GB
-- **After cleanup:** 416 MB
-- **Size reduction:** 90% smaller!
+The project has been heavily optimized to reduce file size.
 
 ## Notes
 - Always run both backend and frontend from the project root directory.
