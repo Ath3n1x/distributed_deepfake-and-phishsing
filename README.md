@@ -116,7 +116,7 @@ The project has been heavily optimized to reduce file size.
 - If you need additional packages, use `requirements.txt` instead of `requirements-minimal.txt`.
 
 ## Research Paper 
-[IEEE Xplore]([https://myapp.vercel.app](https://ieeexplore.ieee.org/document/11465719))
+[IEEE Xplore](https://ieeexplore.ieee.org/document/11465719)
 
 ## POC
 Email: athenix05@gmail.com
