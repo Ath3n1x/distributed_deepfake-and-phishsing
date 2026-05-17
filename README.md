@@ -116,5 +116,4 @@ The project has been heavily optimized to reduce file size.
 - The virtual environment (`.venv/`) is excluded from version control to keep repository size small.
 - If you need additional packages, use `requirements.txt` instead of `requirements-minimal.txt`.
 
-## License
-MIT
+
