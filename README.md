@@ -107,7 +107,6 @@ DeepTrace_Streamlit_Fmaybe/
 - See `requirements-minimal.txt` for essential dependencies
 
 ## File Size Optimization
-
 The project has been heavily optimized to reduce file size.
 
 ## Notes
@@ -116,4 +115,8 @@ The project has been heavily optimized to reduce file size.
 - The virtual environment (`.venv/`) is excluded from version control to keep repository size small.
 - If you need additional packages, use `requirements.txt` instead of `requirements-minimal.txt`.
 
+## Research Paper 
+[IEEE Xplore]([https://myapp.vercel.app](https://ieeexplore.ieee.org/document/11465719))
 
+## POC
+Email: athenix05@gmail.com
